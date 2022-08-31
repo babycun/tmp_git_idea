@@ -1,3 +1,9 @@
 123435439893 java
 I am a superman,you see?
 hello java spark kafka atguigu kafka flink
+#java
+public class {
+  public static void main(String args[]){
+    System.out.println("hello,I am a remote warehouse");
+  }
+}
